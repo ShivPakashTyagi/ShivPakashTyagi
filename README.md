@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivPakashTyagi.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning html, css, js, c{dsa usig c}, androids studio, java etc..
+- 🌱 I’m currently learned Spring Boot Freamwork, html, css, js, c{dsa usig c}, androids studio, java etc..
 - 💞️ I’m looking to collaborate on internship in IT company .
 - 📫 How to reach me this is best way to rech me.
 - 😄 Pronouns: software engineer (developer).
